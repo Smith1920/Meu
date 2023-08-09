@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "458211004295",
+    "project_id": "chapel-d562e",
+    "storage_bucket": "chapel-d562e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458211004295:android:76f47cde47801165650d22",
+        "android_client_info": {
+          "package_name": "com.example.chapal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458211004295-aovbmn8uum6qsvpdksnfk4238nfqs6ld.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chapal",
+            "certificate_hash": "53c55c952f818ef347c3f3c69bbc429b93b474a2"
+          }
+        },
+        {
+          "client_id": "458211004295-ih9462drffhnblgttodlbhqd00p84uf6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOJCPT-F-Lf2ihVLPdu4ruXVO8ZW-7J2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458211004295-ih9462drffhnblgttodlbhqd00p84uf6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
