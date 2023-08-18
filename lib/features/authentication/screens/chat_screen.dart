@@ -243,8 +243,6 @@ class _ChatScreenState extends State<ChatScreen> {
                     'date': DateTime.now(),
                   };
 
-                  
-
                   val = '';
                   txt.clear();
                 }
